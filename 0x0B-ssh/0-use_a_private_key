@@ -4,4 +4,4 @@
 
 # key ~/.ssh/school with the user ubuntu
 
-ssh -i ~/.ssh/school ubuntu@.85.175.83
+ssh -i ~/.ssh/school ubuntu@3.85.175.83
