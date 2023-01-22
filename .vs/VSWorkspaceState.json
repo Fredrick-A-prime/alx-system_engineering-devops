@@ -1,7 +1,8 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\0x0C-web_server"
   ],
-  "SelectedNode": "\\C:\\Users\\HP\\Source\\Repos\\alx-system_engineering-devops",
+  "SelectedNode": "\\0x0C-web_server\\1-install_nginx_web_server",
   "PreviewInSolutionExplorer": false
 }
