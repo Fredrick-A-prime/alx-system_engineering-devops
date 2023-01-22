@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 #!/usr/bin/env bash
 # A script that displays Best School 10 times using while
 
@@ -8,3 +9,15 @@ do
     echo "Best School"
     ((i++))
 done
+=======
+#!/usr/bin/env bash
+# A script that displays Best School 10 times using while
+
+count=0
+
+while [ $count -lt 10 ]
+do
+  echo "Best School"
+  (( count++ ))
+done
+>>>>>>> d979308480a868bf4477e443cb9c9bb7300549ac
